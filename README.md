@@ -17,7 +17,7 @@ This V2 iteration is an ongoing process to systematize this as much as I can in 
 
 The process simplified is as follows. Get yourself a nonsense domain and a nonsense keyword with **zero results**. 
 
-![image ](https://github.com/krutzar/my-seo-testing-system/assets/28541671/fe5bbf9b-f2dc-4599-a198-b37c4e363ece)
+![image](https://github.com/krutzar/my-seo-testing-system/assets/28541671/6a05325c-83a6-4495-983c-b9e85c796d8c)
 
 This gives you a clean environment to run a test. From here you can publish pages on that website, using lorem ipsum and inserting your gibberish keyword to get those pages indexed. This allows you to make changes and compare different variables in about a clean an environment on Google's algorithm as is possible. 
 
